@@ -1,5 +1,4 @@
 import React, { useState, useEffect } from "react";
-// import "./DataFetcher.css"; // Import stylesheet
 
 function DataFetcher() {
   const [data, setData] = useState([]);
